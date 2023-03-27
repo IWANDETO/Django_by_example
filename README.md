@@ -1,0 +1,1 @@
+This Repo is dedicated to the first project that creates an blog application using Django
